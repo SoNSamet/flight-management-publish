@@ -1,0 +1,94 @@
+[
+    {
+        "code": "TR",
+        "name": "Türkiye"
+    },
+    {
+        "code": "BD",
+        "name": "Bangladeş"
+    },
+    {
+        "code": "FR",
+        "name": "Fransa"
+    },
+    {
+        "code": "SY",
+        "name": "Suriye"
+    },
+    {
+        "code": "KG",
+        "name": "Kırgızistan"
+    },
+    {
+        "code": "SK",
+        "name": "Slovakya"
+    },
+    {
+        "code": "SI",
+        "name": "Slovenya"
+    },
+    {
+        "code": "KW",
+        "name": "Kuveyt"
+    },
+    {
+        "code": "KZ",
+        "name": "Kazakistan"
+    },
+    {
+        "code": "DK",
+        "name": "Danimarka"
+    },
+    {
+        "code": "DE",
+        "name": "Almanya"
+    },
+    {
+        "code": "DZ",
+        "name": "Cezayir"
+    },
+    {
+        "code": "ABD",
+        "name": "Amerika Birleşik Devletleri"
+    },
+    {
+        "code": "LB",
+        "name": "Lübnan"
+    },
+    {
+        "code": "TW",
+        "name": "Tayvan"
+    },
+    {
+        "code": "TM",
+        "name": "Türkmenistan"
+    },
+    {
+        "code": "RW",
+        "name": "Sırbistan"
+    },
+    {
+        "code": "RU",
+        "name": "Rusya"
+    },
+    {
+        "code": "BA",
+        "name": "Bosna Hersek"
+    },
+    {
+        "code": "BG",
+        "name": "Bulgaristan"
+    },
+    {
+        "code": "BF",
+        "name": "Burkina Faso"
+    },
+    {
+        "code": "BE",
+        "name": "Belçika"
+    },
+    {
+        "code": "AG",
+        "name": "Letonya"
+    }
+]
